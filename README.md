@@ -10,6 +10,7 @@ Dataset information:
 - samples are RBG photographs 320 x 240
 
 **SOM**
+
 SOM is an unsupervised learning algorithm, which uses a finite grid or lattice of neurons to fill and frame the input data. Nodes are usually arranged in a 2D rectangular grid. In the SOM, a neighbourhood learning is adopted to form topological ordering among the neurons in the map. The close data points are likely to be projected to nearby nodes. Thus the map can be used to show the relative relationships among data points.
 The ViSOM algorithm is a variation of SOM that tries to learn a map in a way that the distances between neurons in the data space are in proportion to those in the map space.
 
